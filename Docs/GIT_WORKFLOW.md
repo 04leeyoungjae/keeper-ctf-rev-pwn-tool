@@ -100,7 +100,7 @@ research/*  → 새로운 기법 연구
 
 ---
 
-### ✅ Branch 예시
+###  Branch 예시
 
 ```bash
 template/ret2libc
@@ -112,7 +112,7 @@ research/mcp-agent-detection
 
 ---
 
-## 🔀 PR (Pull Request) 규칙
+##  PR (Pull Request) 규칙
 
 ### 기본 원칙
 
@@ -141,7 +141,7 @@ PR4: exploit runner 구조 개선
 
 ---
 
-## 👀 Code Review 기준
+##  Code Review 기준
 
 * 템플릿이 일반화 가능한가
 * 특정 문제에 과하게 종속되지 않았는가
@@ -151,7 +151,7 @@ PR4: exploit runner 구조 개선
 
 ---
 
-## 🚀 Workflow
+##  Workflow
 
 ```text
 [1] research/*
